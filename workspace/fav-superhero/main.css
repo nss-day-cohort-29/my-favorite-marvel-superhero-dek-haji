@@ -1,0 +1,24 @@
+article{
+    color:white;
+}
+
+div {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%;
+    
+}
+h1{
+    color: white;
+    text-align: center;
+    font-size: 50px;
+    border: solid gold;
+
+}
+html{
+    background-image: image("https://giphy.com/gifs/loki-avengers-hero-1hEjhAAnzGuLC");
+}
+body{
+    background-color:green;
+}
